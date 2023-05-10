@@ -1,3 +1,10 @@
+/** 
+* File      : Sewa.java
+* Penulis   : Thirafi Syahir Saputra
+*
+*/
+
+
 public class sewa {
     public static void main(String[] args){
         Vehicle kendaraan = new Vehicle ();
