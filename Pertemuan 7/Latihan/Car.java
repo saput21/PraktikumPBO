@@ -1,3 +1,10 @@
+/** 
+* File      : Car.java
+* Penulis   : Thirafi Syahir Saputra
+*
+*/
+
+
 public class Car extends Vehicle{
     void calRent(int jarak,float harga){
         float fare=jarak*harga;
