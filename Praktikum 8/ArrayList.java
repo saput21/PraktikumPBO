@@ -1,10 +1,11 @@
+/**
+* Nama: Thirafi Syahir Saputra
+* NIM: 24060121140139
+*
+*/
+
 import java.util.ArrayList;
 
-/*
- Nama: Thirafi Syahir Saputra
- NIM: 24060121140139
-
-*/
 
 public class ArrayListTest {
     public static void main(String[] args){
