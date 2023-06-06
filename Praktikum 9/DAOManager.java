@@ -1,7 +1,7 @@
 /**
  * File      : DAOManager.java
  * Penulis   : Thirafi Syahir Saputra 
- * Nama      : 24060121140139
+ * NIM       : 24060121140139
  * Deskripsi : pengelola DAO dalam program
  *
  */
